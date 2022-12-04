@@ -24,7 +24,7 @@ After in any project in python is create the virtual enviroment
 
 
 <p>
-In command prompt, digit:
+In command prompt in project dir, digit:
 </p>
 
 ``` python
