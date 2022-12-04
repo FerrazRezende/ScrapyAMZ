@@ -26,6 +26,7 @@ After in any project in python is create the virtual enviroment
 <p>
 In command prompt, digit:
 </p>
+
 ``` python
 python -m venv venv
 ```
