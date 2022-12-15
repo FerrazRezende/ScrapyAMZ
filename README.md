@@ -1,8 +1,8 @@
-<h6 align="center"><b>Welcome, this is my first public project in GitHub!!
+<h6 align="center"><b>Welcome, this is my first public project on GitHub!!
 
 ScrapyAMZ is a script for scraping for 10.000 data in department "Computers". In dataset contains: Price, Anouncement title, Ratings, Notes and link for product.
 
- I hope this content anything help you</h6></b>
+ I hope this content help you in aniway</h6></b>
 
 
 <h1 align="center">ScrapyAMZ</h1>
@@ -18,13 +18,13 @@ ScrapyAMZ is a script for scraping for 10.000 data in department "Computers". In
 <h1>Install and configuration script settings:</h1>
 <p>First step is cloning the repository
 
-After in any project in python is create the virtual enviroment 
+After on any project in python is necessary to create the virtual enviroment 
 </p>
 
 
 
 <p>
-In command prompt in project dir, digit:
+On command prompt in project dir, digit:
 </p>
 
 ``` python
@@ -58,7 +58,7 @@ With venv enabled, installing the dependencies in file "requirements.txt"
 pip install -r requirements.txt
 ```
 
-<p>Check if all dependencies is installed:<p>
+<p>Check if all dependencies are installed:<p>
 
 ```
 pip freeze
@@ -67,7 +67,7 @@ pip freeze
 <p>The result should be:</p>
 <img src="https://i.ibb.co/S55jwVD/2.png" alt="2" border="0">
 
-<h3>Now, is all right to execute script... but, before is need configure settings to send e-mail. </h3>
+<h3>Now, everything is right to execute script... but, before is necessary configure settings to send e-mail. </h3>
 
 <p>Due to recent changes in Google's treatment of third-party app usage, additional settings are required to sending e-mails.</p>
 <a href="https://support.google.com/accounts/answer/3466521?hl=pt-BR">To see more about Google's policy change, click here</a>
@@ -78,30 +78,30 @@ pip freeze
 
 <img src="https://i.ibb.co/4Zd2rpg/4.png" alt="4" border="0">
 
-<h3>1 - Setting sender e-mail</h3>
+<h3>1 - Setting sending e-mail</h3>
 
-<h3>2 - Access <a href="google.com">Google.com</a> and go to 'Manage you Google account' </h3>
+<h3>2 - Access <a href="google.com">Google.com</a> and go to 'Manage your Google account' </h3>
 <img src="https://i.ibb.co/MPmVJqH/5.png" alt="5" border="0">
 
 <h3> Go to section 'Security' </h3>
 <img src="https://i.ibb.co/vVKdPY6/10.png" alt="10" border="0">
 
-<h3>For this step, you need to have activate 2-Step activation.</h3> 
+<h3>For this step, you need to activate 2-Step activation.</h3> 
 <img src="https://i.ibb.co/DCgMX66/11.png" alt="11" border="0">
 
-<h3>Next, go to apps passwords, enter you account passwor </h3>
+<h3>Next, go to apps passwords, enter you account password </h3>
 <h4>Select app 'Mail'</h4>
 <img src="https://i.ibb.co/cLWj37P/12.png" alt="12" border="0">
 
-<h4>Select 'other device' to setting a name for password </h4>
+<h4>Select 'other device' to set a name for the password </h4>
 <img src="https://i.ibb.co/Kynj8Zk/133.png" alt="133" border="0">
 <img src="https://i.ibb.co/sv4p4tS/14.png" alt="14" border="0">
 
-<p>After complete all steps, the site return a password (don't worry, this key not giving access to your account, it is possible to delete any key you own at any time.</p>
+<p>After completed all steps, the site return a password (don't worry, this key not giving access to your account, it is possible to delete any key on your own at any time.</p>
 
 <img src="https://i.ibb.co/26wRZps/15.png" alt="15" border="0">
 
-<h4> For finish, insert a key generated in 'password':</h4>
+<h4> To finish, insert the key that was generate in 'password':</h4>
 <img src="https://i.ibb.co/8BTgVT2/6.png" alt="6" border="0">
 
 <h1>Executing script:</h1>
@@ -125,7 +125,7 @@ python main.py
 <h1>Clarifications:</h1>
 
 <h3>Regex:</h3>
-<p>I used a validation template for the email through re, however I had a problem when sending to email's with 
+<p>I used a validation template for the email through re, however I had a problem when sending the email's with 
 the following template xxxxx.xxxxx.xxx@gmail.com, I also saw no need to fix it, instead
 the script scraps and saves the data locally before checking the email validation, so if the email
 is invalid, the file will still be saved in the ./output folder.</p>
@@ -136,8 +136,8 @@ Template re:
 ```
 <br>
 <h3>Erro timeout 504 Urrlib:</h3>
-<p>During the development process, when scraping several pages, between pages 67 and 75 the script
-script was interrupted due to a connection problem with the site's server:</p>
+<p>During the development process, when scraping several pages, between pages 67 and 75 the
+ script was interrupted due to a connection problem with the site's server:</p>
 <img src="https://i.ibb.co/x6Vrtt1/17.png" alt="17" border="0">
 
 <p>I fixed this by using a while loop that will keep repeating the access to the site until the response to the request is 200 </p>
@@ -164,12 +164,12 @@ data available on Amazon... However, during development I noticed that Amazon li
 <img src="https://i.ibb.co/pfSWVc4/10.png" alt="10" border="0">
 
 <h1>Final considerations</h1>
-<h3>I hope this script can help you in some way and that it is of good use!</h3><br> 
+<h3>I hope this script can help you in some way and that it is of to good use!</h3><br> 
 
 
 
 <p>There are many uses for data scraping and several other ways to do it, feel free
-to update the content and make the changes you think necessary. Study is never too much!</p>
+to update the content and make the changes you think is necessary. Knowledgement is never too much!</p>
 
 <p>If you have any questions, feel free to contact us, <a href="https://wa.me/5511980448707">Whatsapp</a>
 or <a href="https://discordapp.com/users/Matheus-Ferraz#3474">Discord</a></p>
