@@ -2,7 +2,7 @@
 
 ScrapyAMZ is a script for scraping for 10.000 data in department "Computers". In dataset contains: Price, Anouncement title, Ratings, Notes and link for product.
 
- I hope this content help you in aniway</h6></b>
+ I hope this content help you in anyway</h6></b>
 
 
 <h1 align="center">ScrapyAMZ</h1>
