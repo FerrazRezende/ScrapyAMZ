@@ -1,6 +1,6 @@
 <h6 align="center"><b>Welcome, this is my first public project on GitHub!!
 
-ScrapyAMZ is a script for scraping for 10.000 data in department "Computers". In dataset contains: Price, Anouncement title, Ratings, Notes and link for product.
+ScrapyAMZ is a script for scraping for 10.000 datas in department "Computers". In dataset contains: Price, Anouncement title, Ratings, Notes and link for product.
 
  I hope this content help you in anyway</h6></b>
 
