@@ -174,15 +174,4 @@ to update the content and make the changes you think is necessary. Knowledgement
 <p>If you have any questions, feel free to contact us, <a href="https://wa.me/5511980448707">Whatsapp</a>
 or <a href="https://discordapp.com/users/Matheus-Ferraz#3474">Discord</a></p>
 
-
-<h2>I work freelance scraping data </h2>
-<p>If you need a specific data scraping, which even requires login to access the data,
-contact-me <a href="https://wa.me/5511980448707"></a></p>
-<p></b>Table of values:</b></p>
-        <p>1 a 5.000 datasets: $ 5,00</p>
-        <p>5.000 a 15.000 datasets: $ 10,00</p>
-        <p>15.000 a 50.000 datasets: $ 25,00</p>
-        <p>50.000 a 150.000 datasets: $ 50,00</p>
-        <p>150.000 a 300.000 datasets: $ 100,00</p>
-        <p>for more information, contact me</p>
 <h1 align="center">Thanks for getting this far, good studies!!!!</h1>
